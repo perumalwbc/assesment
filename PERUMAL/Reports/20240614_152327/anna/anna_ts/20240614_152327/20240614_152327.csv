@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+anna_ts,Chrome 126.0.0.0,,,14-06-2024 15:23:37,14-06-2024 15:30:35,6m - 57.980s,PASSED
+,,,,,,,
+Test Cases/anna/anna_testcase,Chrome 126.0.0.0,,,14-06-2024 15:29:39,14-06-2024 15:30:17,38.092s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 15:29:39,14-06-2024 15:29:48,8.946s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 126.0.0.0,,,14-06-2024 15:29:48,14-06-2024 15:29:56,8.068s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)""))",Chrome 126.0.0.0,,,14-06-2024 15:29:56,14-06-2024 15:29:57,0.452s,PASSED
+"switchToWindowTitle(""Centre for Alumni Relations and Corporate Affairs-[CARCA]"")",Chrome 126.0.0.0,,,14-06-2024 15:29:57,14-06-2024 15:30:13,16.082s,PASSED
+"doubleClick(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES""))",Chrome 126.0.0.0,,,14-06-2024 15:30:13,14-06-2024 15:30:13,0.443s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more""))",Chrome 126.0.0.0,,,14-06-2024 15:30:13,14-06-2024 15:30:16,2.499s,PASSED
+"switchToWindowTitle(""Centre for Alumni Relations and Corporate Affairs-[CARCA]"")",Chrome 126.0.0.0,,,14-06-2024 15:30:16,14-06-2024 15:30:16,0.170s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started""))",Chrome 126.0.0.0,,,14-06-2024 15:30:16,14-06-2024 15:30:17,0.782s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 15:30:17,14-06-2024 15:30:17,0.627s,PASSED
+,,,,,,,
+Test Cases/anna/anna_testcase,Chrome 126.0.0.0,,,14-06-2024 15:30:17,14-06-2024 15:30:35,17.858s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 15:30:17,14-06-2024 15:30:18,0.803s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 126.0.0.0,,,14-06-2024 15:30:18,14-06-2024 15:30:26,8.182s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)""))",Chrome 126.0.0.0,,,14-06-2024 15:30:26,14-06-2024 15:30:27,0.393s,PASSED
+"switchToWindowTitle(""Centre for Alumni Relations and Corporate Affairs-[CARCA]"")",Chrome 126.0.0.0,,,14-06-2024 15:30:27,14-06-2024 15:30:30,3.484s,PASSED
+"doubleClick(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES""))",Chrome 126.0.0.0,,,14-06-2024 15:30:30,14-06-2024 15:30:31,0.431s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more""))",Chrome 126.0.0.0,,,14-06-2024 15:30:31,14-06-2024 15:30:33,2.486s,PASSED
+"switchToWindowTitle(""Centre for Alumni Relations and Corporate Affairs-[CARCA]"")",Chrome 126.0.0.0,,,14-06-2024 15:30:33,14-06-2024 15:30:33,0.158s,PASSED
+"click(findTestObject(""Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started""))",Chrome 126.0.0.0,,,14-06-2024 15:30:33,14-06-2024 15:30:34,1.005s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 15:30:34,14-06-2024 15:30:35,0.903s,PASSED

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="anna_ts" time="417.98" tests="2" failures="0" errors="0">
+   <testsuite name="anna_ts" tests="2" failures="0" errors="0" time="417.98" skipped="0" timestamp="14-06-2024T15:23:37" hostname="RUSA-L2PC-42 - DESKTOP-0J1EMLM" id="Test Suites/anna/anna_ts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\RUSA-L2PC-42\\Katalon Studio\\PERUMAL\\Reports\\20240614_152327\\anna\\anna_ts\\20240614_152327"/>
+         <property name="logFiles" value="C:\\Users\\RUSA-L2PC-42\\Katalon Studio\\PERUMAL\\Reports\\20240614_152327\\anna\\anna_ts\\20240614_152327\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="RUSA-L2PC-42 - DESKTOP-0J1EMLM"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="57ebee1ce245a593a6d941e6a16a0808"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/anna/anna_testcase" time="38.092" classname="Test Cases/anna/anna_testcase" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:29:39 - [TEST_CASE][PASSED] - Test Cases/anna/anna_testcase: Test Cases/anna/anna_testcase
+
+14-06-2024T15:29:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-06-2024T15:29:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+14-06-2024T15:29:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-06-2024T15:29:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-06-2024T15:29:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-06-2024T15:29:48 - [TEST_STEP][PASSED] - navigateToUrl("https://www.annauniv.edu/"): Navigate to 'https://www.annauniv.edu/' successfully
+
+14-06-2024T15:29:56 - [MESSAGE][PASSED] - Navigate to 'https://www.annauniv.edu/' successfully
+
+14-06-2024T15:29:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)")): Object: 'Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)' is clicked on
+
+14-06-2024T15:29:57 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)' is clicked on
+
+14-06-2024T15:29:57 - [TEST_STEP][PASSED] - switchToWindowTitle("Centre for Alumni Relations and Corporate Affairs-[CARCA]"): Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:13 - [MESSAGE][PASSED] - Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:13 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES' is double clicked on
+
+14-06-2024T15:30:13 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES' is double clicked on
+
+14-06-2024T15:30:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more' is clicked on
+
+14-06-2024T15:30:16 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more' is clicked on
+
+14-06-2024T15:30:16 - [TEST_STEP][PASSED] - switchToWindowTitle("Centre for Alumni Relations and Corporate Affairs-[CARCA]"): Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:16 - [MESSAGE][PASSED] - Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started' is clicked on
+
+14-06-2024T15:30:17 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started' is clicked on
+
+14-06-2024T15:30:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-06-2024T15:30:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/anna/anna_testcase" time="17.858" classname="Test Cases/anna/anna_testcase" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:30:17 - [TEST_CASE][PASSED] - Test Cases/anna/anna_testcase: Test Cases/anna/anna_testcase
+
+14-06-2024T15:30:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-06-2024T15:30:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-06-2024T15:30:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-06-2024T15:30:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-06-2024T15:30:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.annauniv.edu/"): Navigate to 'https://www.annauniv.edu/' successfully
+
+14-06-2024T15:30:26 - [MESSAGE][PASSED] - Navigate to 'https://www.annauniv.edu/' successfully
+
+14-06-2024T15:30:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)")): Object: 'Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)' is clicked on
+
+14-06-2024T15:30:27 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Anna University, Chennai/b_AlumniCorporate(CEGACTMITSAP)' is clicked on
+
+14-06-2024T15:30:27 - [TEST_STEP][PASSED] - switchToWindowTitle("Centre for Alumni Relations and Corporate Affairs-[CARCA]"): Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:30 - [MESSAGE][PASSED] - Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:30 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES' is double clicked on
+
+14-06-2024T15:30:31 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/h2_ABOUT CAMPUSES' is double clicked on
+
+14-06-2024T15:30:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more' is clicked on
+
+14-06-2024T15:30:33 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Read more' is clicked on
+
+14-06-2024T15:30:33 - [TEST_STEP][PASSED] - switchToWindowTitle("Centre for Alumni Relations and Corporate Affairs-[CARCA]"): Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:33 - [MESSAGE][PASSED] - Switched to window with title: 'Centre for Alumni Relations and Corporate Affairs-[CARCA]'
+
+14-06-2024T15:30:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started")): Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started' is clicked on
+
+14-06-2024T15:30:34 - [MESSAGE][PASSED] - Object: 'Object Repository/anna_repo/Page_Centre for Alumni Relations and Corpor_0e6bb1/a_Get Started' is clicked on
+
+14-06-2024T15:30:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-06-2024T15:30:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-06-2024T15:23:37 - [TEST_SUITE][FAILED] - anna_ts: Test Cases/anna/anna_testcase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to navigate to 'https://www.annauniv.edu/'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl(NavigateToUrlKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.execute(NavigateToUrlKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl(WebUiBuiltInKeywords.groovy:187)
+	at anna_testcase.run(anna_testcase:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718358807179.run(TempTestSuite1718358807179.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 298.488
+  (Session info: chrome=126.0.6478.56)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-0J1EMLM', ip: '192.168.56.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\RUSA-L~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a0cb3953bc42d1efbb89c703b641f339
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:857)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringNavigation.to(EventFiringWebDriver.java:569)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword$_navigateToUrl_closure1.doCall(NavigateToUrlKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword$_navigateToUrl_closure1.call(NavigateToUrlKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[14-06-2024T15:23:37 - [TEST_SUITE][FAILED] - anna_ts: Test Cases/anna/anna_testcase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to navigate to 'https://www.annauniv.edu/'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl(NavigateToUrlKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.execute(NavigateToUrlKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.navigateToUrl(WebUiBuiltInKeywords.groovy:187)
+	at anna_testcase.run(anna_testcase:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1718358807179.run(TempTestSuite1718358807179.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 298.488
+  (Session info: chrome=126.0.6478.56)
+Build info: version: '3.141.59', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-0J1EMLM', ip: '192.168.56.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\RUSA-L~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a0cb3953bc42d1efbb89c703b641f339
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:857)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringNavigation.to(EventFiringWebDriver.java:569)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword$_navigateToUrl_closure1.doCall(NavigateToUrlKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword$_navigateToUrl_closure1.call(NavigateToUrlKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>
