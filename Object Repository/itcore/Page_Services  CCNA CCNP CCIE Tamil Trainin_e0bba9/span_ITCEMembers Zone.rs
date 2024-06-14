@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ITCEMembers Zone</name>
+   <tag></tag>
+   <elementGuidId>53d250a1-27fe-4beb-a4b6-2b3bbb2159c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#avia-menu > #menu-item-4323 > a > span.avia-menu-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='menu-item-4323']/a/span[2])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ITCEMember’s Zone&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>08fa28b4-506d-47c9-b354-818d80e37729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>avia-menu-text</value>
+      <webElementGuid>6e330625-908d-4299-b385-8395f9929a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ITCEMember’s Zone</value>
+      <webElementGuid>9473fa3d-75bd-4d86-863e-b2204479ba94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;avia-menu&quot;)/li[@id=&quot;menu-item-4323&quot;]/a[1]/span[@class=&quot;avia-menu-text&quot;]</value>
+      <webElementGuid>f12ed2eb-a391-49f6-86b8-bb0a1175b6ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='menu-item-4323']/a/span[2])[2]</value>
+      <webElementGuid>432e4ca5-97c7-49cf-b6f1-8550fbe249ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Up Coming Video Series'])[2]/following::span[2]</value>
+      <webElementGuid>e1bfe7be-a0d1-4a0a-8968-bd8d435b11e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cisco Training Service'])[2]/following::span[4]</value>
+      <webElementGuid>47399641-be75-4ddd-823b-395f86ac6f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Lab'])[2]/preceding::span[5]</value>
+      <webElementGuid>6b3ca7d8-e4f5-4675-996e-45ec7520aaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[2]/preceding::span[10]</value>
+      <webElementGuid>368f8502-a6c2-4369-b493-3f751d5c6650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[3]/a/span[2]</value>
+      <webElementGuid>925d451e-e25c-41b5-9145-990eb578ae79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ITCEMember’s Zone' or . = 'ITCEMember’s Zone')]</value>
+      <webElementGuid>2a164e3c-3a21-4515-9320-f5ee666b6664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

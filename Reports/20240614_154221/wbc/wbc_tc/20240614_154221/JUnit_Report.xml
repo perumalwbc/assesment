@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="wbc_tc" time="29.182" tests="2" failures="0" errors="0">
+   <testsuite name="wbc_tc" tests="2" failures="0" errors="0" time="29.182" skipped="0" timestamp="14-06-2024T15:42:31" hostname="RUSA-L2PC-42 - DESKTOP-0J1EMLM" id="Test Suites/wbc/wbc_tc">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\RUSA-L2PC-42\\Katalon Studio\\PERUMAL\\Reports\\20240614_154221\\wbc\\wbc_tc\\20240614_154221"/>
+         <property name="logFiles" value="C:\\Users\\RUSA-L2PC-42\\Katalon Studio\\PERUMAL\\Reports\\20240614_154221\\wbc\\wbc_tc\\20240614_154221\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="RUSA-L2PC-42 - DESKTOP-0J1EMLM"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="49eac6f7a80f4071a90e2e2c4e1a5f93"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/WBC_FOLDER/wbc_testcase" time="14.361" classname="Test Cases/WBC_FOLDER/wbc_testcase" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:42:31 - [TEST_CASE][PASSED] - Test Cases/WBC_FOLDER/wbc_testcase: Test Cases/WBC_FOLDER/wbc_testcase
+
+14-06-2024T15:42:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-06-2024T15:42:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-06-2024T15:42:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-06-2024T15:42:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-06-2024T15:42:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.msswbc.org/"): Navigate to 'https://www.msswbc.org/' successfully
+
+14-06-2024T15:42:38 - [MESSAGE][PASSED] - Navigate to 'https://www.msswbc.org/' successfully
+
+14-06-2024T15:42:38 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT")): Object: 'Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT' is double clicked on
+
+14-06-2024T15:42:39 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT' is double clicked on
+
+14-06-2024T15:42:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC")): Object: 'Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC' is clicked on
+
+14-06-2024T15:42:41 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC' is clicked on
+
+14-06-2024T15:42:41 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY")): Object: 'Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY' is double clicked on
+
+14-06-2024T15:42:43 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY' is double clicked on
+
+14-06-2024T15:42:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF")): Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is clicked on
+
+14-06-2024T15:42:44 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is clicked on
+
+14-06-2024T15:42:44 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF")): Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is double clicked on
+
+14-06-2024T15:42:45 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is double clicked on
+
+14-06-2024T15:42:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-06-2024T15:42:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WBC_FOLDER/wbc_testcase" time="14.702" classname="Test Cases/WBC_FOLDER/wbc_testcase" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:42:45 - [TEST_CASE][PASSED] - Test Cases/WBC_FOLDER/wbc_testcase: Test Cases/WBC_FOLDER/wbc_testcase
+
+14-06-2024T15:42:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-06-2024T15:42:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-06-2024T15:42:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-06-2024T15:42:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-06-2024T15:42:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.msswbc.org/"): Navigate to 'https://www.msswbc.org/' successfully
+
+14-06-2024T15:42:52 - [MESSAGE][PASSED] - Navigate to 'https://www.msswbc.org/' successfully
+
+14-06-2024T15:42:52 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT")): Object: 'Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT' is double clicked on
+
+14-06-2024T15:42:54 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT' is double clicked on
+
+14-06-2024T15:42:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC")): Object: 'Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC' is clicked on
+
+14-06-2024T15:42:55 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC' is clicked on
+
+14-06-2024T15:42:55 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY")): Object: 'Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY' is double clicked on
+
+14-06-2024T15:42:58 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY' is double clicked on
+
+14-06-2024T15:42:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF")): Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is clicked on
+
+14-06-2024T15:42:59 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is clicked on
+
+14-06-2024T15:42:59 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF")): Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is double clicked on
+
+14-06-2024T15:43:00 - [MESSAGE][PASSED] - Object: 'Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF' is double clicked on
+
+14-06-2024T15:43:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-06-2024T15:43:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-06-2024T15:42:31 - [TEST_SUITE][PASSED] - wbc_tc: Test Cases/WBC_FOLDER/wbc_testcase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

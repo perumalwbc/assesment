@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+wbc_tc,Chrome 126.0.0.0,,,14-06-2024 15:42:31,14-06-2024 15:43:00,29.182s,PASSED
+,,,,,,,
+Test Cases/WBC_FOLDER/wbc_testcase,Chrome 126.0.0.0,,,14-06-2024 15:42:31,14-06-2024 15:42:45,14.361s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 15:42:31,14-06-2024 15:42:33,1.514s,PASSED
+"navigateToUrl(""https://www.msswbc.org/"")",Chrome 126.0.0.0,,,14-06-2024 15:42:33,14-06-2024 15:42:38,5.187s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT""))",Chrome 126.0.0.0,,,14-06-2024 15:42:38,14-06-2024 15:42:39,1.517s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 15:42:39,14-06-2024 15:42:41,1.269s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY""))",Chrome 126.0.0.0,,,14-06-2024 15:42:41,14-06-2024 15:42:43,2.298s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF""))",Chrome 126.0.0.0,,,14-06-2024 15:42:43,14-06-2024 15:42:44,1.135s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF""))",Chrome 126.0.0.0,,,14-06-2024 15:42:44,14-06-2024 15:42:45,1.023s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 15:42:45,14-06-2024 15:42:45,0.241s,PASSED
+,,,,,,,
+Test Cases/WBC_FOLDER/wbc_testcase,Chrome 126.0.0.0,,,14-06-2024 15:42:45,14-06-2024 15:43:00,14.702s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 15:42:45,14-06-2024 15:42:46,0.914s,PASSED
+"navigateToUrl(""https://www.msswbc.org/"")",Chrome 126.0.0.0,,,14-06-2024 15:42:46,14-06-2024 15:42:52,5.673s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT""))",Chrome 126.0.0.0,,,14-06-2024 15:42:52,14-06-2024 15:42:54,1.725s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 15:42:54,14-06-2024 15:42:55,1.564s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_ALUMNI REGISTRATION WAKF BOARD COLLEGE_a6f5d0/span_GALLERY""))",Chrome 126.0.0.0,,,14-06-2024 15:42:55,14-06-2024 15:42:58,2.405s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF""))",Chrome 126.0.0.0,,,14-06-2024 15:42:58,14-06-2024 15:42:59,1.156s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_NIRF""))",Chrome 126.0.0.0,,,14-06-2024 15:42:59,14-06-2024 15:43:00,1.015s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 15:43:00,14-06-2024 15:43:00,0.231s,PASSED
