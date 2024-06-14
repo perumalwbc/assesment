@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+wbc,Chrome 126.0.0.0,,,14-06-2024 14:49:49,14-06-2024 14:50:16,27.673s,PASSED
+,,,,,,,
+Test Cases/WBC/wbc_testcase,Chrome 126.0.0.0,,,14-06-2024 14:49:49,14-06-2024 14:50:03,14.372s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:49:49,14-06-2024 14:49:51,1.554s,PASSED
+"navigateToUrl(""http://www.msswbc.org/"")",Chrome 126.0.0.0,,,14-06-2024 14:49:51,14-06-2024 14:49:56,5.857s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT""))",Chrome 126.0.0.0,,,14-06-2024 14:49:56,14-06-2024 14:49:58,1.887s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_COURSES OFFERED""))",Chrome 126.0.0.0,,,14-06-2024 14:49:58,14-06-2024 14:49:59,1.061s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Departments of Mss Wakf Board College Madurai/span_STUDENT SUPPORT""))",Chrome 126.0.0.0,,,14-06-2024 14:49:59,14-06-2024 14:50:01,1.198s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Facilities of Wakf Board College Madurai/span_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 14:50:01,14-06-2024 14:50:02,1.154s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_E-Resources""))",Chrome 126.0.0.0,,,14-06-2024 14:50:02,14-06-2024 14:50:03,1.305s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 14:50:03,14-06-2024 14:50:03,0.181s,PASSED
+,,,,,,,
+Test Cases/WBC/wbc_testcase,Chrome 126.0.0.0,,,14-06-2024 14:50:03,14-06-2024 14:50:16,13.181s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:50:03,14-06-2024 14:50:04,0.952s,PASSED
+"navigateToUrl(""http://www.msswbc.org/"")",Chrome 126.0.0.0,,,14-06-2024 14:50:04,14-06-2024 14:50:10,5.619s,PASSED
+"doubleClick(findTestObject(""Object Repository/wbc_repo/Page_MSS WAKF BOARD College Madurai  Offici_95a2a2/span_MANAGEMENT""))",Chrome 126.0.0.0,,,14-06-2024 14:50:10,14-06-2024 14:50:11,1.504s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Management and committee Details of Ou_d2c67a/span_COURSES OFFERED""))",Chrome 126.0.0.0,,,14-06-2024 14:50:11,14-06-2024 14:50:13,1.320s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Departments of Mss Wakf Board College Madurai/span_STUDENT SUPPORT""))",Chrome 126.0.0.0,,,14-06-2024 14:50:13,14-06-2024 14:50:14,1.217s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_Facilities of Wakf Board College Madurai/span_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 14:50:14,14-06-2024 14:50:15,1.218s,PASSED
+"click(findTestObject(""Object Repository/wbc_repo/Page_NAAC LINKS  WAKF BOARD COLLEGE Madurai/span_E-Resources""))",Chrome 126.0.0.0,,,14-06-2024 14:50:15,14-06-2024 14:50:16,1.140s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,14-06-2024 14:50:16,14-06-2024 14:50:16,0.200s,PASSED
